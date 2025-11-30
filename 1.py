@@ -1,0 +1,1 @@
+job_exists = lambda name: f'td > a[href="job/{name}/"]'
